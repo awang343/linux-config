@@ -8,6 +8,10 @@ h1 {
 	font-weight: 700 !important;
 }
 
+.main-leaderboardComponent-container {
+  display: none
+}
+
 /* Song name in player */
 .main-nowPlayingWidget-nowPlaying .main-trackInfo-name {
 	overflow: unset;
